@@ -1,0 +1,5 @@
+{
+    "orchestrate_processes": false,
+    "kill_processes": false,
+    "examples_count": 30
+}
